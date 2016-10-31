@@ -1,7 +1,5 @@
-# test1
-test哈哈哈
+<?php
 
+phpinfo();
 
-wo gaibian hou de wenjian
-
-dier ci  xiu gai
+?>
